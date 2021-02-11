@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExample", "LinqExample\LinqExample.csproj", "{B1D4D7AE-CAFE-44A1-ABA6-BD8DDDA714A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D4D7AE-CAFE-44A1-ABA6-BD8DDDA714A8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B1D4D7AE-CAFE-44A1-ABA6-BD8DDDA714A8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B1D4D7AE-CAFE-44A1-ABA6-BD8DDDA714A8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B1D4D7AE-CAFE-44A1-ABA6-BD8DDDA714A8}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
